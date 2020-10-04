@@ -6,7 +6,7 @@ A little noise generation tool that i made during an English class, make surpris
 **Requirements**
 
 Python 3.8.2 is the earliest version the script has been tested to work on, might work with older versions.
-*Pillow* for Python, more info at: [Pillow Installation Page](https://pillow.readthedocs.io/en/stable/installation.html "Installation Page")
+*Pillow* for Python, install at: [Pillow Installation Page](https://pillow.readthedocs.io/en/stable/installation.html "Installation Page")
 
 **Use**
 

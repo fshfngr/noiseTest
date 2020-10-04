@@ -1,5 +1,5 @@
 # noiseTest.py
-# made by Fishfinger
+# made by Laban Lundquist
 from PIL import Image
 import random, time
 
